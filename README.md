@@ -1,6 +1,6 @@
-# Aute ipsum laboris ut
+Aute ipsum laboris ut
 
-### Commodo do magna elit amet incididunt cillum non.
+Commodo do magna elit amet incididunt cillum non.
 
 In anim do duis ullamco. Lorem ad mollit eu anim exercitation qui ea pariatur fugiat proident mollit. Consectetur dolore cupidatat aliquip aliqua elit exercitation cillum duis tempor.
 
@@ -15,7 +15,6 @@ https://tskoli.is/wp-content/uploads/2017/07/Tækniskólinn.Háteigsvegi-1-768x4
 Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
 Video id: HUBNt18RFbo
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](http://www.youtube.com/watch?v=HUBNt18RFbo)
 
 Aliquip sunt laboris et esse nostrud. 
 
